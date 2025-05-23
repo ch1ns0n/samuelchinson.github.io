@@ -5,3 +5,4 @@ description: >-
 theme: null
 markdown: kramdown
 permalink: pretty
+# baseurl: "/"
